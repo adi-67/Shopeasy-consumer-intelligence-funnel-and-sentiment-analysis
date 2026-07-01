@@ -181,9 +181,9 @@ Critical signal: Running Shoes is At Risk across all three dimensions while simu
 | customer_reviews_cleaned | 1,363 | 1,363 | Structural cleaning only |
 | engagement_data_cleaned | 4,623 | 4,623 | Casing + column split |
 
-The SQL files used to validate and clean this data can be found here: [01_validation.sql](01.Data_Validation.sql) · [02_cleaning_transformation.sql](02_cleaning_transformation.sql)
+The SQL files used to validate and clean this data can be found here: [01_validation.sql]() · [02_cleaning_transformation.sql]()
 
- Power BI dashboard can be found here: [Download Dashboard](shopeasy_consumer_intelligence.pbix)
+ Power BI dashboard can be found here: [Download Dashboard]()
 
 ---
 
